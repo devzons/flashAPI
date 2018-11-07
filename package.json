@@ -1,0 +1,22 @@
+{
+  "name": "flashapi",
+  "version": "1.0.0",
+  "description": "* Facebook API\r * GooglePlaces API\r * Reddit API\r * Twitter API\r * Weather API\r * Yelp API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devzons/flashAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devzons/flashAPI/issues"
+  },
+  "homepage": "https://github.com/devzons/flashAPI#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
